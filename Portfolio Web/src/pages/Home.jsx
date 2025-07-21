@@ -1,7 +1,8 @@
 export const Home = () => {
-    return<div>
+    return<div className="min-h-screen bg-background text-foreground overflow-x-hidden">
 
-     {/* Theme Toggle */}   
+     {/* Theme Toggle */}  
+     <></> 
 
      {/* Background Effects */}
 
